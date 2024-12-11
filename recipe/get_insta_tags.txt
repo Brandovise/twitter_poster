@@ -1,0 +1,8 @@
+I want to Insta seven hashtags about #Title,  Hashtags should be separated by space
+Base on the the topic and this description 
+#Insta
+
+- Give me insta hashtags in German and english
+- The First Insta hashtags should start with $$ and last hashtag should end with $$
+(example: $$#tag1 #tag2 #tag3, #tag4$$)
+- Use can add english or German hashtags

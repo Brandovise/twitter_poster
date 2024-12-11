@@ -1,0 +1,9 @@
+python-dotenv
+tweepy
+Pillow
+pandas
+google-auth
+google-auth-oauthlib
+google-api-python-client
+requests
+openai

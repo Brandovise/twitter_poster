@@ -1,0 +1,10 @@
+I want to write a Facebook post about #Title.
+
+Based on the title #Title and this description #FB:
+
+Craft a friendly and engaging Facebook post in German.
+The post should start with $$ and end with $$.
+Use emojis throughout the post to make it eye-catching and fun.
+Include a call-to-action (CTA) to encourage readers to like, comment, or share the post.
+Mention that more information is available on our website.
+Ensure the tone is conversational and inviting.

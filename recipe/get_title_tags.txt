@@ -1,0 +1,8 @@
+I want to Youtube 10 tags about #Title,  Tags should be separated by space
+Base on the topic #Title and this description 
+#YouTube
+
+- Give me Youtube tags in German
+- The First Youtube tags should start with $$ and last Youtube should end with $$
+(example: $$tag1 tag2 tag3, tag4$$)
+- Use can add english or German hashtags

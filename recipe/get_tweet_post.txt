@@ -1,0 +1,9 @@
+I want to write an twitter tweet about #Title
+Base on the the topic and this description 
+#Tweet
+
+- Give me friendly twitter tweet in German
+- The Insta Caption should start with $$ and end with $$
+- Use also hashtags in the the caption to make it interesting 
+- Use emojis in the post to make it eye catching 
+- Write within 250 characters

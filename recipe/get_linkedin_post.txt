@@ -1,0 +1,8 @@
+I want to write an article about #Title
+Base on the the topic and this description 
+#Linkedin
+
+- Give me friendly linkedin Post in German
+- The linkedin Post should start with $$ and end with $$
+Use emojis strategically throughout the caption to make it visually appealing.
+Add a compelling call-to-action (CTA) encouraging readers to like, comment, or share the post.

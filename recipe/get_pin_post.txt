@@ -1,0 +1,8 @@
+I want to write an Pininterest Description about #Title
+Base on the the topic and this description 
+#Pin
+
+- Give me friendly Pininterest Description in German
+- The Pininterest Description should start with $$ and end with $$
+- Use emojis in the post to make it eye catching 
+- Add any call to action statement which urges the reader to like or comment the Pin

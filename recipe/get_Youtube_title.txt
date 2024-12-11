@@ -1,0 +1,9 @@
+I want to write an Youtube Title about #Title
+Based on the Title #Title 
+and this description #Youtube
+
+- Give me SEO optimized Title in German
+- The FB Post should start with $$ and end with $$
+- Use emojis in the post to make it eye catching 
+- Add any call to action statement which urges the reader to like or comment the Post
+- Tell User that More info can be found on our website

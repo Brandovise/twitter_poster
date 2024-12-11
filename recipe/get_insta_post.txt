@@ -1,0 +1,9 @@
+I want to write an Instagram post about #Title.
+
+Based on the title #Title and this description #Insta:
+
+Craft a friendly, engaging, and attention-grabbing Instagram caption in German.
+The Insta Caption should start with $$ and end with $$
+Include relevant hashtags to make the post more discoverable and interesting.
+Use emojis strategically throughout the caption to make it visually appealing.
+Add a compelling call-to-action (CTA) encouraging readers to like, comment, or share the post.
