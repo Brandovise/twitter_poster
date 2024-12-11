@@ -2,7 +2,7 @@
 
 Here’s a README.md file for your project:
 
-```markdown
+
 # Social Media Poster with ChatGPT and Twitter API Integration
 
 This project automates the process of posting content to social media platforms, specifically Twitter, by fetching data from Google Sheets and utilizing ChatGPT for content generation. 
